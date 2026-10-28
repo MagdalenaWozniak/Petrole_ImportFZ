@@ -1,0 +1,9 @@
+C:\Users\magdaw\Documents\Ostrewka\one032\ONE004-dtexec\obj\Debug\ONE002.csprojAssemblyReference.cache
+C:\Users\magdaw\Documents\Ostrewka\one032\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\magdaw\Documents\Ostrewka\one032\ONE004-dtexec\obj\Debug\ONE002.csproj.ResolveComReference.cache
+C:\Users\magdaw\Documents\Ostrewka\one032\ONE004-dtexec\obj\Debug\ONE002.ONE002WIN.resources
+C:\Users\magdaw\Documents\Ostrewka\one032\ONE004-dtexec\obj\Debug\ONE032.Properties.Resources.resources
+C:\Users\magdaw\Documents\Ostrewka\one032\ONE004-dtexec\obj\Debug\ONE002.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\Ostrewka\one032\ONE004-dtexec\obj\Debug\ONE002.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Ostrewka\one032\ONE004-dtexec\obj\Debug\ONE032.exe
+C:\Users\magdaw\Documents\Ostrewka\one032\ONE004-dtexec\obj\Debug\ONE032.pdb
